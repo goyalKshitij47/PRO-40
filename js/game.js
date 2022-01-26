@@ -61,7 +61,7 @@ class Game{
                          fill("red");
                          textSize(20);
                          // add code to display the player name on the respective basket
-                        // text(allPlayers[plr].name,x-32,y+25);
+                     //text(allPlayers[plr].name,x-32,y+25);
 
                          
                      }
